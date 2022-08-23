@@ -25,6 +25,7 @@ form {
   opacity: .4;
   position: absolute;
   object-fit: cover;
+  width: 100%;
 }
 
 .content {
